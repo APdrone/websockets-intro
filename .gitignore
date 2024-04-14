@@ -1,2 +1,4 @@
 websocket-nodejs/node_modules/*
 ws-react/node_modules/*
+express-server/node_modules/*
+worker/node_modules/*
